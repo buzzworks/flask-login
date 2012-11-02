@@ -1,0 +1,5 @@
+flask-login (0.1.2) UNRELEASED; urgency=low
+
+  * Initial release.
+
+ -- Arvind Singh <arvind@buzzworks.com>  Fri, 02 Nov 2012 16:13:47 +0530
